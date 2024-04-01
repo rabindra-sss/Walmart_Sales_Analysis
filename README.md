@@ -139,7 +139,8 @@ $ total = VAT + COGS\\= 16.0265 + 320.53 = $336.5565$
 
 $ \text{Gross Margin Percentage} = \frac{\text{gross income}}{\text{total revenue}}\\=\frac{16.0265}{336.5565} = 0.047619\\\approx 4.7619\% $
 
-##Conclusion 
+
+## Conclusion 
 
 > The analysis reveals the number of distinct branches in each city, providing valuable insight into the distribution of Walmart branches.
 
