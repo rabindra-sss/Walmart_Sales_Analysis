@@ -65,15 +65,6 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 3. **Conclusion:** 
 
-> The analysis reveals the number of distinct branches in each city, providing valuable insight into the distribution of Walmart branches.
-
-> The most common product line is fashion accessories followed by food and beverages, showing consumer spending habits.
-
-> Food and beverage product line is leading in generating revenue for the business, while health and beauty products are not generating as much.
-
-> Branch C is the best performing branch, with a significant lead of 10,000 ahead of the other branches, prompting the business owner to look into what Branch C is doing differently.
-
-
 ## Business Questions To Answer
 
 ### Generic Question
@@ -147,4 +138,15 @@ $ \text{VAT} = 5\% * COGS\\= 5\%  320.53 = 16.0265 $
 $ total = VAT + COGS\\= 16.0265 + 320.53 = $336.5565$
 
 $ \text{Gross Margin Percentage} = \frac{\text{gross income}}{\text{total revenue}}\\=\frac{16.0265}{336.5565} = 0.047619\\\approx 4.7619\% $
+
+##Conclusion 
+
+> The analysis reveals the number of distinct branches in each city, providing valuable insight into the distribution of Walmart branches.
+
+> The most common product line is fashion accessories followed by food and beverages, showing consumer spending habits.
+
+> Food and beverage product line is leading in generating revenue for the business, while health and beauty products are not generating as much.
+
+> Branch C is the best performing branch, with a significant lead of 10,000 ahead of the other branches, prompting the business owner to look into what Branch C is doing differently.
+
 
